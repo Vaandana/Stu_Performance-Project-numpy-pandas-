@@ -10,7 +10,6 @@ This project explores and analyzes student academic performance using Python. Th
 ---
 
 ## 📁 Dataset Features
-
 | **Column**          | **Description**                                              |
 | ------------------- | ------------------------------------------------------------ |
 | `StudentID`         | Unique student identifier                                    |
@@ -28,6 +27,7 @@ This project explores and analyzes student academic performance using Python. Th
 | `Volunteering`      | Participates in volunteering (0 = No, 1 = Yes)               |
 | `GPA`               | Grade Point Average (float)                                  |
 | `GradeClass`        | Final class label (possibly categorical)                     |
+
 
 
 ---
