@@ -11,17 +11,24 @@ This project explores and analyzes student academic performance using Python. Th
 
 ## 📁 Dataset Features
 
-- `StudentID`: Unique identifier  
-- `Age`: Age of the student  
-- `Gender`: Encoded (0 = Female, 1 = Male)  
-- `Ethnicity`: Encoded categorical values  
-- `ParentalEducation`: Education level of parents (encoded)  
-- `StudyTimeWeekly`: Weekly study time  
-- `Absences`: Number of absences  
-- `Tutoring`: Attending tutoring (0/1)  
-- `ParentalSupport`: Support rating from parents  
-- `Extracurricular`: Participates in extracurricular activities  
-- `FinalGrade`: Final academic performance score
+| **Column**          | **Description**                                              |
+| ------------------- | ------------------------------------------------------------ |
+| `StudentID`         | Unique student identifier                                    |
+| `Age`               | Age of student                                               |
+| `Gender`            | Encoded (likely 0 = Female, 1 = Male)                        |
+| `Ethnicity`         | Encoded categorical values                                   |
+| `ParentalEducation` | Encoded education level of parents                           |
+| `StudyTimeWeekly`   | Weekly study time (float)                                    |
+| `Absences`          | Total number of absences                                     |
+| `Tutoring`          | Attends tutoring (0 = No, 1 = Yes)                           |
+| `ParentalSupport`   | Encoded parental support rating                              |
+| `Extracurricular`   | Participates in extracurricular activities (0 = No, 1 = Yes) |
+| `Sports`            | Participates in sports (0 = No, 1 = Yes)                     |
+| `Music`             | Participates in music (0 = No, 1 = Yes)                      |
+| `Volunteering`      | Participates in volunteering (0 = No, 1 = Yes)               |
+| `GPA`               | Grade Point Average (float)                                  |
+| `GradeClass`        | Final class label (possibly categorical)                     |
+
 
 ---
 
