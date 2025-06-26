@@ -90,7 +90,7 @@ Whether it’s visualizations, analytical depth, or documentation — I’m alwa
 
 **Vandana L**  
 Aspiring Data Analyst | Skilled in Power BI, SQL, Excel, python Libraries and Python  
-📧 Email: vandana91480gmaile.com  
+📧 Email: vandana91480gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vandana-l-6a37a1233)
 
 
